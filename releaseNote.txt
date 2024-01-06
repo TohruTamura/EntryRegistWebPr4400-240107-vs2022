@@ -1,0 +1,72 @@
+﻿on 10/01/31
+1.FtpServerNameの設定にFTPは付けない
+2.最終更新日を各試合から削除
+3.JavaScriptのEventListをWebFormatに対応させる
+4.ServerClassを削除
+
+on 10/02/02
+1.Header部分に更新日を表示
+2.各種header,footerをGIMPで作成
+
+on 10/02/03
+1.EntryListのHeader部分の体裁を修正(J)
+2.EntryListのTableTitleカラーの設定（J)
+3.EntryListのcomment部分を変数化
+
+on 10/02/20
+1.setWebContentClassでUploadBtnとuploadMenuItemの連携
+2.upLoadBtnを作成
+3.Closing.txtを読み込み処理のエラー
+
+on 10/03/06
+1.HomePageFrmを作成
+
+on 10/03/16
+1.大船用に調整
+
+on 10/03/26
+1.試合日当日に申込状況が出るようする(javaScript)
+2.締切チェックがOnOffで色が変わらないバグを修正
+3.uploadのチェックを全てはずすと、チェックボックスメニューがdiasableになるバグを解消
+
+on 10/03/27
+1.SP順表示を可能に
+
+on 10/03/28
+1. ver1.20をリリース
+
+on 10/04/19
+最適化
+
+on 11/08/01
+大船用を着手開始
+
+on 11/08/20
+・Closing.txt関係のダウンロードOK
+・mpInfoのアップロードOK
+・WebEntry登録テスト
+	単独	OK
+		zipCodeと電話番号に-を挿入してinsert
+	既登録されている場合
+	既登録されているが、Cancelにチェックが入っている場合
+		upLoadデータには登録されていないから、登録できてしまうが、insertには現れない
+		手動で入力すること
+	tempJsonに二重登録されている場合
+		二重に登録される。
+on 11/08/21
+・アップロード、ダウンロード関係整理
+on 11/08/22
+・menuの整理
+・temporaryなDirectoryの作成(ダウンロードファイルはここに)
+・サーバー情報のインポート、エクスポートはxml
+on 11/08/26
+・Linqを使用 Network3.5用に
+on 11/08/29
+・Console.iniファイルを保存するタイミングを変更
+　Console.iniがない時
+　受付ファイルが設定で変更された時
+　サーバー設定が変更された時
+on 11/09/10
+・Linqを使い最適化
+on 11/10/08
+・タスクスケジューラの登録Helpを追加

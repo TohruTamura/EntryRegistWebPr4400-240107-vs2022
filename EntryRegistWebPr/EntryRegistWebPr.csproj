@@ -1,0 +1,346 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22270B9F-D672-4DF8-B53D-F6680D0C2681}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EntryRegistWebPr</RootNamespace>
+    <AssemblyName>tCBEntryWeb3</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <ApplicationIcon>データベースの無料アイコン2%281%29.ico</ApplicationIcon>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dJcblInfoClass.cs" />
+    <Compile Include="dMpInfoClass.cs" />
+    <Compile Include="entryFileClass.cs" />
+    <Compile Include="EntryListJsonConvertClass.cs" />
+    <Compile Include="EntryMdbClass.cs" />
+    <Compile Include="EntryTableClass.cs" />
+    <Compile Include="EntryToJsonClass.cs" />
+    <Compile Include="etcClass.cs" />
+    <Compile Include="EventInfoClass.cs" />
+    <Compile Include="EventListJsonConvertClass.cs" />
+    <Compile Include="EventToJsonClass.cs" />
+    <Compile Include="installClass.cs" />
+    <Compile Include="isExistTableClass.cs" />
+    <Compile Include="JCBLCalcClass.cs" />
+    <Compile Include="jcblInfoToDbUploadFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jcblInfoToDbUploadFrm.Designer.cs">
+      <DependentUpon>jcblInfoToDbUploadFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jcblMemberClass.cs" />
+    <Compile Include="JcblMembersInfoClass.cs" />
+    <Compile Include="logDataClass.cs" />
+    <Compile Include="logDispFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logDispFrm.Designer.cs">
+      <DependentUpon>logDispFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailAddressRegistFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mailAddressRegistFrm.Designer.cs">
+      <DependentUpon>mailAddressRegistFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailEntryContentClass.cs" />
+    <Compile Include="mailListPreviewFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mailListPreviewFrm.Designer.cs">
+      <DependentUpon>mailListPreviewFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailTableClass.cs" />
+    <Compile Include="modelessDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modelessDlg.Designer.cs">
+      <DependentUpon>modelessDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mpInfoDbDataExistClass.cs" />
+    <Compile Include="newFtpServerClass.cs" />
+    <Compile Include="noExhibitionFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="noExhibitionFrm.Designer.cs">
+      <DependentUpon>noExhibitionFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nonExhibtionClass.cs" />
+    <Compile Include="phpEntryFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phpEntryFrm.Designer.cs">
+      <DependentUpon>phpEntryFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="postOFHttpClass.cs" />
+    <Compile Include="progressFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progressFrm.Designer.cs">
+      <DependentUpon>progressFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\access.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>access.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\install.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>install.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ftpServerFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ftpServerFrm.designer.cs">
+      <DependentUpon>ftpServerFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftpUploadClass.cs" />
+    <Compile Include="HomePageFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageFrm.designer.cs">
+      <DependentUpon>HomePageFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MicrosoftAccessClass.cs" />
+    <Compile Include="myConvClass.cs" />
+    <Compile Include="personClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftpServerFrm.resx">
+      <DependentUpon>ftpServerFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageFrm.resx">
+      <DependentUpon>HomePageFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jcblInfoToDbUploadFrm.resx">
+      <DependentUpon>jcblInfoToDbUploadFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logDispFrm.resx">
+      <DependentUpon>logDispFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailAddressRegistFrm.resx">
+      <DependentUpon>mailAddressRegistFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailListPreviewFrm.resx">
+      <DependentUpon>mailListPreviewFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modelessDlg.resx">
+      <DependentUpon>modelessDlg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="noExhibitionFrm.resx">
+      <DependentUpon>noExhibitionFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phpEntryFrm.resx">
+      <DependentUpon>phpEntryFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="progressFrm.resx">
+      <DependentUpon>progressFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splushFrm.resx">
+      <DependentUpon>splushFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="webEntryAutoSaveSettingFrm.resx">
+      <DependentUpon>webEntryAutoSaveSettingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="webWatchIntervalFrm.resx">
+      <DependentUpon>webWatchIntervalFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="simpleMailAddressRegistFrm.resx">
+      <DependentUpon>simpleMailAddressRegistFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="webFormatFrm.resx">
+      <DependentUpon>webFormatFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\newFtpServer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>newFtpServer.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\install.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>install.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\webentryAutoSave.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>webentryAutoSave.settings</DependentUpon>
+    </Compile>
+    <Compile Include="splushFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splushFrm.Designer.cs">
+      <DependentUpon>splushFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="webEntryAutoSaveClass.cs" />
+    <Compile Include="webEntryAutoSaveSettingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="webEntryAutoSaveSettingFrm.Designer.cs">
+      <DependentUpon>webEntryAutoSaveSettingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="webWatchIntervalFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="webWatchIntervalFrm.Designer.cs">
+      <DependentUpon>webWatchIntervalFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="webWatchIntervalClass.cs" />
+    <Compile Include="registTeamClass.cs" />
+    <Compile Include="registToDbOfWebDataClass.cs" />
+    <Compile Include="simpleMailAddressRegistFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="simpleMailAddressRegistFrm.Designer.cs">
+      <DependentUpon>simpleMailAddressRegistFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teamClass.cs" />
+    <Compile Include="teamForMailClass.cs" />
+    <Compile Include="tempRegistClass.cs" />
+    <Compile Include="WebEntryClass.cs" />
+    <Compile Include="webFormatClass.cs" />
+    <Compile Include="webFormatFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="webFormatFrm.Designer.cs">
+      <DependentUpon>webFormatFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\webWatchInterval.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>webWatchInterval.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\webentryAutoSave.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>webentryAutoSave.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\btn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\access.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>access.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\newFtpServer.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>newFtpServer.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\名称未設定.png" />
+    <None Include="Properties\webWatchInterval.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>webWatchInterval.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icons8-クラウドバックアップの復元-64.ico" />
+    <Content Include="icons8-フロント-デスク-48.ico" />
+    <Content Include="pc1.ico" />
+    <Content Include="point_icon_02.ico" />
+    <Content Include="データベースの無料アイコン2%281%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

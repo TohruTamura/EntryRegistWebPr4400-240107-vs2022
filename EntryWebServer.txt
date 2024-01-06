@@ -1,0 +1,1 @@
+{"FptServerName":"211.13.204.12","FtpDefaultFolder":"www.ofunabc.jp","FtpAccount":"tamura@ofunabc.jp","FtpUserPassword":"Darkrope81667","HomePageUrl":"ofunabc.jp","EntryFolderName":"entrySystemOfunaDB","WebDbPassword":"WepYo4ia"}

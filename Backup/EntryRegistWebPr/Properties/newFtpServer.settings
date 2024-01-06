@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EntryRegistWebPr.Properties" GeneratedClassName="newFtpServer">
+  <Profiles />
+  <Settings>
+    <Setting Name="ftpServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">211.13.204.12</Value>
+    </Setting>
+    <Setting Name="ftpDefaultFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.ofunabc.jp</Value>
+    </Setting>
+    <Setting Name="ftpAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tamura@ofunabc.jp</Value>
+    </Setting>
+    <Setting Name="ftpUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Darkrope81667</Value>
+    </Setting>
+    <Setting Name="homePageUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ofunabc.jp</Value>
+    </Setting>
+    <Setting Name="entryFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">entrySystemOfunaDB</Value>
+    </Setting>
+    <Setting Name="WebDbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WepYo4ia</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

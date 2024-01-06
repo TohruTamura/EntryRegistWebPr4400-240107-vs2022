@@ -1,0 +1,880 @@
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.homePageDispFrm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.setWebContentFrm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.WebEntryForm.resources
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+C:\C#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.homePageDispFrm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.setWebContentFrm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.WebEntryForm.resources
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\c#2008\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.homePageDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.setWebContentFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.WebEntryForm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2900beta(121122)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.homePageDispFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.setWebContentFrm.resources
+D:\c#2008\EntryRegistWebPr2901beta(121130)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.homePageDispFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.setWebContentFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.homePageDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.setWebContentFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\c#2008\EntryRegistWebPr2902beta(121201)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\c#2008\EntryRegistWebPr2950(121209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2950(121209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2950(121209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\c#2008\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2950Beta(121209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+D:\c#2008\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+D:\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+C:\Users\tamura\Desktop\EntryRegistWebPr2960Beta(121210)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+C:\C#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\c#2008\EntryRegistWebPr2970Beta(121221)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+F:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+F:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+F:\c#2008\EntryRegistWebPr2971Beta(121222)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoUploadFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+F:\c#2008\EntryRegistWebPr2975Beta(121228)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+F:\c#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+C:\C#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+C:\C#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+C:\C#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr2980Beta(121230)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3000(130203)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+E:\C#2008\EntryRegistWebPr3000(130205)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+E:\C#2008\EntryRegistWebPr3000beta(130206)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\EntryRegistWebPr3000(130207)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+E:\C#2008\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+E:\C#2008\Ofunaversion\EntryRegistWebPr3001beta(130209)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+E:\C#2008\OfunaVersion\EntryRegistWebPr3001(130210)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\OfunaVersion\EntryRegistWebPr3001(130210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\OfunaVersion\EntryRegistWebPr3001(130210)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3002(130212)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3003(130227)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+E:\C#2008\OfunaVersion\EntryRegistWebPr3010(130323)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3010(130324)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3011(130403)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+C:\C#2008\EntryRegistWebPr3100Beta(140108)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100(140120)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100(140120)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+I:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3100(140120)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe.config
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.exe
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb2.pdb
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.exe
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb2.pdb
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+D:\C#2008\EntryRegistProject\OfunaVersion\EntryRegistWebPr3199(170422)\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.Cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\mscorlib.dll
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\JA\mscorlib.resources.dll
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\sortkey.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\sorttbls.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\big5.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\bopomofo.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\ksc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\prc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\prcp.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\xjis.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normidna.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfd.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfkc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfkd.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.AssemblyReference.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.CoreCompileInputs.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.CopyComplete
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe.config
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.pdb
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.pdb
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.splushFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe.config
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.pdb
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\mscorlib.dll
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\JA\mscorlib.resources.dll
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\sortkey.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\sorttbls.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\big5.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\bopomofo.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\ksc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\prc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\prcp.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\xjis.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normidna.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfd.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfkc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfkd.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.AssemblyReference.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.splushFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.CoreCompileInputs.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.CopyComplete
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.pdb
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3901(220901)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.progressFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe.config
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.pdb
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\mscorlib.dll
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\JA\mscorlib.resources.dll
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\sortkey.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\sorttbls.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\big5.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\bopomofo.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\ksc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\prc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\prcp.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\xjis.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normidna.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfd.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfkc.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\bin\x86\Debug\normnfkd.nlp
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.AssemblyReference.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.progressFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.splushFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.CoreCompileInputs.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.CopyComplete
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.pdb
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3903(220904)vw2022beta\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webEntryAutoSaveSettingFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe.config
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\bin\x86\Debug\tCBEntryWeb3.pdb
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.AssemblyReference.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.SuggestedBindingRedirects.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.AboutBox.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.ftpServerFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.HomePageFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.jcblInfoToDbUploadFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.logDispFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.mailListPreviewFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.modelessDlg.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.noExhibitionFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.phpEntryFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.progressFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.Properties.Resources.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.splushFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webEntryAutoSaveSettingFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webWatchIntervalFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.simpleMailAddressRegistFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.webFormatFrm.resources
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.GenerateResource.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\EntryRegistWebPr.csproj.CoreCompileInputs.cache
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.exe
+C:\Users\tamura\Documents\Visual Studio 2022\Projects\ofunatCBWEbEntryProject\EntryRegistWebPr3907(220913)vs2022Complete\EntryRegistWebPr\obj\x86\Debug\tCBEntryWeb3.pdb

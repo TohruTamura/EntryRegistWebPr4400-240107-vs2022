@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EntryRegistWebPr.Properties" GeneratedClassName="newFtpServer">
+  <Profiles />
+  <Settings>
+    <Setting Name="ftpServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">153.127.49.160</Value>
+    </Setting>
+    <Setting Name="ftpDefaultFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">153.127.49.160</Value>
+    </Setting>
+    <Setting Name="ftpAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp-user2</Value>
+    </Setting>
+    <Setting Name="ftpUserPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">darkrope</Value>
+    </Setting>
+    <Setting Name="homePageUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">153.127.49.160</Value>
+    </Setting>
+    <Setting Name="entryFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tTounamentEntry</Value>
+    </Setting>
+    <Setting Name="WebDbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">darkrope</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

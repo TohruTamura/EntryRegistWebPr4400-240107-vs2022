@@ -1,0 +1,373 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          移行レポート
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          変換レポート - </h1><div id="content"><h2 _locID="OverviewTitle">概要</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">プロジェクト</th><th _locID="PathTableHeader">パス</th><th _locID="ErrorsTableHeader">エラー</th><th _locID="WarningsTableHeader">警告</th><th _locID="MessagesTableHeader">メッセージ</th></tr><tr><td class="IconWarningEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">ソリューション</span></a></strong></td><td>EntryRegistWebPr.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#SolutionWarning">1</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">2</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#EntryRegistWebPr">EntryRegistWebPr</a></strong></td><td>EntryRegistWebPr\EntryRegistWebPr.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('EntryRegistWebPr'); return false;">94</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#tCBEntryWebSetup">tCBEntryWebSetup</a></strong></td><td>EntryRegistWebSetup\EntryRegistWebSetup.vdproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">ソリューションおよびプロジェクト</h2><div id="messages"><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">ソリューション</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">メッセージ</th></tr><tr name="WarningRowClassSolution"><td class="IconWarningEncoded"><a name="SolutionWarning" /></td><td class="messageCell"><strong>EntryRegistWebPr.sln:
+        </strong><span>このプロジェクトを Visual Studio 2010 SP1 より新しいリリース バージョンの Visual Studio で開けるように、プロジェクトの動作には影響しない非機能的な変更をプロジェクトに加える必要があります。</span></td></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          その他の2 メッセージを表示する
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr.sln:
+        </strong><span>ファイルは C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr.sln として正常にバックアップされました</span></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr.sln:
+        </strong><span>ソリューションは正常に移行されました</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          その他の2 メッセージを隠す
+        </a></td></tr></table><a name="EntryRegistWebPr" /><h3>EntryRegistWebPr</h3><table><tr id="EntryRegistWebPrHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">メッセージ</th></tr><tr name="MessageRowHeaderShowEntryRegistWebPr"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="EntryRegistWebPrMessage" onclick="ToggleMessageVisibility('EntryRegistWebPr'); return false;">
+          その他の94 メッセージを表示する
+        </a></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EntryRegistWebPr.csproj:
+        </strong><span>プロジェクト ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EntryRegistWebPr.csproj としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EntryRegistWebPr.csproj.user:
+        </strong><span>プロジェクト ユーザー ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EntryRegistWebPr.csproj.user としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\AboutBox.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\AboutBox.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\AboutBox.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\AboutBox.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\dJcblInfoClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\dJcblInfoClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\dMpInfoClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\dMpInfoClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\entryFileClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\entryFileClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EntryListJsonConvertClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EntryListJsonConvertClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EntryMdbClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EntryMdbClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EntryTableClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EntryTableClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EntryToJsonClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EntryToJsonClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\etcClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\etcClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EventInfoClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EventInfoClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EventListJsonConvertClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EventListJsonConvertClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EventToJsonClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\EventToJsonClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\installClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\installClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\isExistTableClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\isExistTableClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\JCBLCalcClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\JCBLCalcClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\jcblInfoToDbUploadFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\jcblInfoToDbUploadFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\jcblInfoToDbUploadFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\jcblInfoToDbUploadFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\jcblMemberClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\jcblMemberClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\JcblMembersInfoClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\JcblMembersInfoClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\logDataClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\logDataClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\logDispFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\logDispFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\logDispFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\logDispFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailAddressRegistFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailAddressRegistFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailAddressRegistFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailAddressRegistFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailEntryContentClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailEntryContentClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailListPreviewFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailListPreviewFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailListPreviewFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailListPreviewFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailTableClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailTableClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\modelessDlg.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\modelessDlg.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\modelessDlg.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\modelessDlg.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mpInfoDbDataExistClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mpInfoDbDataExistClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\newFtpServerClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\newFtpServerClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\noExhibitionFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\noExhibitionFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\noExhibitionFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\noExhibitionFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\nonExhibtionClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\nonExhibtionClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\phpEntryFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\phpEntryFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\phpEntryFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\phpEntryFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\postOFHttpClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\postOFHttpClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\access.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\access.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\install.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\install.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\ftpServerFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\ftpServerFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\ftpServerFrm.designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\ftpServerFrm.designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\ftpUploadClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\ftpUploadClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\HomePageFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\HomePageFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\HomePageFrm.designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\HomePageFrm.designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\MicrosoftAccessClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\MicrosoftAccessClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\myConvClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\myConvClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\personClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\personClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Program.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Program.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\AssemblyInfo.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\AssemblyInfo.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\newFtpServer.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\newFtpServer.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\Resources.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\Resources.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webWatchIntervalFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webWatchIntervalFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webWatchIntervalFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webWatchIntervalFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webWatchIntervalClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webWatchIntervalClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\registTeamClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\registTeamClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\registToDbOfWebDataClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\registToDbOfWebDataClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\simpleMailAddressRegistFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\simpleMailAddressRegistFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\simpleMailAddressRegistFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\simpleMailAddressRegistFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\teamClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\teamClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\teamForMailClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\teamForMailClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\tempRegistClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\tempRegistClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\WebEntryClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\WebEntryClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webFormatClass.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webFormatClass.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webFormatFrm.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webFormatFrm.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webFormatFrm.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webFormatFrm.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\webWatchInterval.Designer.cs:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\webWatchInterval.Designer.cs としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\app.config:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\app.config としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\install.settings:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\install.settings としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Resources\btn1.png:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Resources\btn1.png としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\access.settings:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\access.settings としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\newFtpServer.settings:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\newFtpServer.settings としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Resources\名称未設定.png:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Resources\名称未設定.png としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\webWatchInterval.settings:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\webWatchInterval.settings としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\pc1.ico:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\pc1.ico としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\AboutBox.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\AboutBox.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\ftpServerFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\ftpServerFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\HomePageFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\HomePageFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\jcblInfoToDbUploadFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\jcblInfoToDbUploadFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\logDispFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\logDispFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailAddressRegistFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailAddressRegistFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\mailListPreviewFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\mailListPreviewFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\modelessDlg.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\modelessDlg.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\noExhibitionFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\noExhibitionFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\phpEntryFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\phpEntryFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\Properties\Resources.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\Properties\Resources.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webWatchIntervalFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webWatchIntervalFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\simpleMailAddressRegistFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\simpleMailAddressRegistFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\webFormatFrm.resx:
+        </strong><span>ファイルは正常に C:\Users\tamura\Documents\Visual Studio 2022\Projects\EntryRegistWebPr3900(220831)vw2022beta\Backup\EntryRegistWebPr\webFormatFrm.resx としてバックアップされました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\EntryRegistWebPr.csproj:
+        </strong><span>プロジェクトは正常に移行されました</span></td></tr><tr name="MessageRowClassEntryRegistWebPr" style="display: none"><td class="IconInfoEncoded"><a name="EntryRegistWebPrMessage" /></td><td class="messageCell"><strong>EntryRegistWebPr\app.config:
+        </strong><span>ファイルは正常に移行されました。すべての &lt;supportedRuntime&gt; と &lt;requiredRuntime&gt; タグは、Visual Studio 2005 でプロジェクトをビルドおよび実行できるように削除されました。</span></td></tr><tr style="display: none" name="MessageRowHeaderHideEntryRegistWebPr"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="EntryRegistWebPrMessage" onclick="ToggleMessageVisibility('EntryRegistWebPr'); return false;">
+          その他の94 メッセージを隠す
+        </a></td></tr></table><a name="tCBEntryWebSetup" /><h3>tCBEntryWebSetup</h3><table><tr id="tCBEntryWebSetupHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">メッセージ</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">tCBEntryWebSetup メッセージは記録されていません。
+                  </td></tr></table></div></div></body></html>
